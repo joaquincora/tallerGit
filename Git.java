@@ -33,7 +33,10 @@ public class Git{
 			System.out.println("primer commit para interfaz");
 
 			//Trabajo del practicante
-			System.out.println("Este es el trabajo del practicante");			
+			System.out.println("Este es el trabajo del practicante");
+		
+			//trabajo desde gitHub
+			System.out.println("Este es el trabajo hecho en line desde gitHub");
 
 
 	}
