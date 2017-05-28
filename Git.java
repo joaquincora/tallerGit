@@ -37,6 +37,7 @@ public class Git{
 		
 			//trabajo desde gitHub
 			System.out.println("Este es el trabajo hecho en line desde gitHub");
+			System.out.println("Segundo commit para trabajo en equipo desde GitHub");
 
 			//Trabajo extra para la rrama master
 			System.out.println("Este fue le trabajo extra para la rama master");
