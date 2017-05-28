@@ -22,7 +22,7 @@ public class Git{
 			//Crear modulo de facturaión 
 
 			System.out.println("Modulo de facturacion");
-
+			System.out.println("Segunda parte de facturacion");
 			//Crear interfaz grafica
 
 	}
