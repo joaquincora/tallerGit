@@ -42,5 +42,6 @@ public class Git{
 			//Trabajo extra para la rama master
 			System.out.println("Este fue le trabajo extra para la rama master");
 			System.out.println("Prueba para issues");
+			System.out.println("Prueba para issues 2");
 	}
 }
