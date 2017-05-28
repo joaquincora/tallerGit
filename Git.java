@@ -17,7 +17,7 @@ public class Git{
 
 
 			//Crear funcion para agregar clientes
-
+			System.out.println("Primera parte de clientes");
 
 			//Crear modulo de facturaión 
 
