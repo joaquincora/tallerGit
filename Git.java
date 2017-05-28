@@ -23,6 +23,8 @@ public class Git{
 
 			System.out.println("Modulo de facturacion");
 			System.out.println("Segunda parte de facturacion");
+			System.out.println("BUG ARREGLADO");
+
 			//Crear interfaz grafica
 
 	}
