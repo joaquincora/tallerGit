@@ -24,7 +24,10 @@ public class Git{
 
 			//Crear modulo de facturaión 
 
-
+			System.out.println("Modulo de facturacion");
+			System.out.println("Segunda parte de facturacion");
+			
+			System.out.println("BUG ARREGLADO");
 
 			//Crear interfaz grafica
 			System.out.println("primer commit para interfaz");
