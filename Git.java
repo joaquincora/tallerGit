@@ -24,6 +24,8 @@ public class Git{
 
 
 			//Crear interfaz grafica
+			System.out.println("primer commit para interfaz");
+
 
 	}
 }
