@@ -11,5 +11,8 @@ public class Git{
 
 			System.out.println("Los alumnos que esten inscritos a algun diplomado de TecGurus no pagan el GuruDay");
 			System.out.println("Mensaje del tercer commit");
+
+			System.out.println("Commit de prueba ¿Que pasa?");
+
 	}
 }
