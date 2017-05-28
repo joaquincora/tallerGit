@@ -14,5 +14,16 @@ public class Git{
 
 			System.out.println("Commit de prueba ¿Que pasa?");
 
+
+
+			//Crear funcion para agregar clientes
+
+
+			//Crear modulo de facturaión 
+
+
+
+			//Crear interfaz grafica
+
 	}
 }
