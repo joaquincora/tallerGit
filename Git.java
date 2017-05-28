@@ -44,5 +44,6 @@ public class Git{
 			System.out.println("Prueba para issues");
 			System.out.println("Prueba para issues 2");
 			System.out.println("Prueba para issues 3");
+			System.out.println("se arregla el problema del issue 2");
 	}
 }
