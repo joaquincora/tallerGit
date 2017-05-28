@@ -5,7 +5,7 @@ public class Git{
 			System.out.println("Hola mundo");
 			System.out.println("Mesaje del primer commit");
 
-			System.out.println("El proximo GuruDay será de Hacking");
+			System.out.println("Error del practicante);
 			System.out.println("Mensaje para el segundo commit");
 
 
