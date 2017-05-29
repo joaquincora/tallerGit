@@ -20,6 +20,7 @@ public class Git{
 
 
 			//Crear funcion para agregar clientes
+			system.out.println("Se espera un conflicto al hacer un Merge");
 			System.out.println("Primera parte de clientes");
 
 			//Crear modulo de facturaión 
